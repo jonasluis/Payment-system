@@ -12,7 +12,7 @@ import org.springframework.stereotype.Service;
 import java.io.UnsupportedEncodingException;
 
 @Service
-public class UserSevice {
+public class UserService {
 
     @Autowired
     private UserRepository userRepository;
